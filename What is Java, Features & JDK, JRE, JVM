@@ -1,9 +1,7 @@
 Introduction to Java: 
-
 Java is a high-level, object-oriented programming language developed by Sun Microsystems in 1995, which is now owned by Oracle Corporation. Known for its portability across platforms, Java has become one of the most popular programming languages for building cross-platform applications, from web applications to mobile apps and enterprise software.
 
 Features of Java:
-
  1. Object-Oriented :
 Java follows the object-oriented programming paradigm, which helps in organizing complex programs into simple, reusable code. Key concepts include classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 
@@ -39,10 +37,8 @@ Key Components of JDK :
 3.	Javadoc: The documentation generator, which creates HTML documentation from Java source code comments.
 4.	Jar: The archiver, which packages related class libraries into a single JAR file for easier distribution and deployment.
 
-
 Java Runtime Environment (JRE)
-
-The Java Runtime Environment (JRE) provides the libraries, Java Virtual Machine (JVM), and other components to run applications written in Java. The JRE is part of the JDK but can be downloaded separately to run Java applications without development tools.
+-The Java Runtime Environment (JRE) provides the libraries, Java Virtual Machine (JVM), and other components to run applications written in Java. The JRE is part of the JDK but can be downloaded separately to run Java applications without development tools.
 
 Components of JRE :
 1.	JVM: The heart of Java's platform independence, which executes Java bytecode.
@@ -50,18 +46,13 @@ Components of JRE :
 3.	Other Components:- Additional libraries and components required for running Java applications.
 
 Java Virtual Machine (JVM)
-
-The Java Virtual Machine (JVM) is a virtual machine that enables Java bytecode to be executed on any platform. It is the cornerstone of Java's platform independence.
+-The Java Virtual Machine (JVM) is a virtual machine that enables Java bytecode to be executed on any platform. It is the cornerstone of Java's platform independence.
 
  How JVM Works :
 1.	Class Loader: Loads Java class files into the JVM.
 2.	Bytecode Verifier: Checks the code fragments for illegal code that can violate access rights.
 3.	Interpreter: Reads and executes the Java bytecode line by line.
 4.	JIT Compiler: Converts bytecode into native machine code for higher performance.
-
- 
-
-
 
 JVM Components
 1.	Class Loader Subsystem: Responsible for loading class files.
@@ -70,5 +61,4 @@ JVM Components
 4.	Native Method Interface: Enables Java to interact with native applications and libraries written in other languages.
 
 Conclusion
-
 Java's robust features, coupled with its platform independence, security, and ease of use, have made it a preferred choice for developers worldwide. Understanding the roles of JDK, JRE, and JVM is crucial for anyone looking to delve deeper into Java programming and development. Whether you're developing simple desktop applications or complex enterprise solutions, Java provides the tools and flexibility needed to bring your ideas to life.
