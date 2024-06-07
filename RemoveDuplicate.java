@@ -2,7 +2,7 @@ package String;
 
 public class RemoveDuplicate {
   public static void main(String[] args) {
-	String str="i am lakhan ";
+	String str="i am pooja";
 	
 	for(int i=0;i<=str.length();i++)
 	{
